@@ -57,6 +57,3 @@ The trained model achieved an **accuracy of 97.10 %** and **Precision is 100 %**
 
 **Feel free to contribute, modify, or use the code according to the terms of the license.**
 
-## Contact
-
-If you have any questions or suggestions regarding the project, feel free to contact **Kishan Patel** at **kishanpatel9063@gmail.com**.
